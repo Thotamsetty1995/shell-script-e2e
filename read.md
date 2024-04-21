@@ -1,6 +1,6 @@
 # complete shell scripts
 
-* steps *
+# steps 
 
 * create repo in GitHub
 * clone repo in local laptop
